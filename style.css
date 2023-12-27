@@ -1,0 +1,109 @@
+/* * body{
+    background-color: rgb(88, 109, 153);
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(page-2.jpg);
+    background-position: 50% 10%;
+    background-size: 1280px;
+    background-repeat: no-repeat;
+}
+
+
+.content{
+    margin: -50px 10px;
+    background-color: none;
+}
+
+h1{
+    margin: 0px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    color: rgb(31, 27, 88);
+    background-image: url(page-4.jpg);
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: 10% 25%;
+    background-size: 1480px 720px;
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 780px;
+    margin-top: 5px;
+    color: rgb(46, 62, 10);
+}
+
+img{
+    margin-top: 10px;
+    margin-left: 760px;
+    border-radius: 30px;
+    background: none;
+    width: 200px;
+    height: 250px;
+}
+
+
+h2{
+    padding:  0px;
+    background: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    transform: rotate(-15deg);
+}
+
+.text-1{
+    margin-left: 430px;
+    margin-top: -300px;
+    color: rgb(228, 216, 233);
+    box-shadow: 0 0 20px rgb(156, 135, 135),
+    inset 0 0 30px rgb(145, 113, 113);
+    width: 300px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.text-2{
+    margin-left: 365px;
+    margin-top: 0;
+    color: rgb(198, 193, 38);
+    box-shadow: 0 0 20px red,
+    inset 0 0 30px black;
+    width: 340px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.text-3{
+    margin-left: 400px;
+    margin-top: 0;
+    color: rgb(12, 102, 113);
+    box-shadow: 0 0 20px rgb(240, 239, 239),
+    inset 0 0 30px rgb(81, 95, 71);
+    width: 300px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+/* PROFILE AHEMD NASERALLA */
+
+ul{
+    list-style: none;
+}
+li{
+    margin-top: 25vh;
+    font-size: 30px;
+    color: red;
+}
+
+a{
+    margin-left: 500px;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
